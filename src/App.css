@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background: #553055;
+    font-weight: bold;
+}
+
+
+.App{
+    background:#4c2a ;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 700px;
+    color: #eee;
+}
+
+.navbar{
+    padding: 10px 20px;
+    text-align: center;
+    background: #4c3765;
+}
+
+.navbar h1{
+    margin: 10px 0;
+}
+
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px auto;
+}
